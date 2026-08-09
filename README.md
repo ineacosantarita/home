@@ -1,2 +1,0 @@
-# home
-Página de Inicio
